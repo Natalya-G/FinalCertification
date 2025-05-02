@@ -1,0 +1,1 @@
+insert into employee(first_name, last_name, phone, company_id) values (Jaydon, Quitzon, (268) 207-6192, 1960)

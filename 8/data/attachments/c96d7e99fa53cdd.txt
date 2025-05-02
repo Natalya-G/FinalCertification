@@ -1,0 +1,1 @@
+insert into employee(first_name, last_name, phone, company_id) values (Alvera, Dach, (072) 309-2439, 1955)

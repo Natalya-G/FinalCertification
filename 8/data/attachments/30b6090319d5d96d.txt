@@ -1,0 +1,1 @@
+insert into employee(first_name, last_name, phone, company_id) values (Jasmin, Lindgren, 283-899-1662, 1959)
