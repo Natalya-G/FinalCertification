@@ -1,0 +1,1 @@
+insert into employee(first_name, last_name, phone, company_id) values (Breanna, Cremin, (852) 442-9593, 2017)

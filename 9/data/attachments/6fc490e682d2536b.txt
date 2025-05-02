@@ -1,0 +1,1 @@
+insert into employee(first_name, last_name, phone, company_id) values (Stevie, Berge, (732) 578-0179, 2022)
