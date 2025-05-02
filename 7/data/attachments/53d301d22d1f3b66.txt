@@ -1,0 +1,1 @@
+insert into company("name", description) values (Deckow LLC, Home, Shoes & Tools)

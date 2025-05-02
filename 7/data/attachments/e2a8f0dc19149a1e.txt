@@ -1,0 +1,1 @@
+insert into employee(first_name, last_name, phone, company_id) values (Vergie, Metz, 1-214-878-3662, 1895)
