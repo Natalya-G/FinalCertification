@@ -1,0 +1,1 @@
+insert into employee(first_name, last_name, phone, company_id) values (Melyssa, Grady, 271-594-3407, 1885)

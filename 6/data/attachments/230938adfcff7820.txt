@@ -1,0 +1,1 @@
+insert into employee(first_name, last_name, phone, company_id) values (Jonathon, Gaylord, 1-051-851-9994, 1887)

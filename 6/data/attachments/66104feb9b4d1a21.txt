@@ -1,0 +1,1 @@
+insert into company("name", description) values (Corwin, Corwin and Corwin, Baby, Industrial & Movies)

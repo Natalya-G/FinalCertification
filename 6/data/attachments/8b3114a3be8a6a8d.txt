@@ -1,0 +1,1 @@
+insert into company("name", description) values (Stoltenberg LLC, Computers, Music & Tools)
