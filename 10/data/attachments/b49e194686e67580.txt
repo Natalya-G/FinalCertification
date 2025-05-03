@@ -1,0 +1,1 @@
+insert into company("name", description) values (Jaskolski, Jaskolski and Jaskolski, Outdoors, Shoes & Toys)

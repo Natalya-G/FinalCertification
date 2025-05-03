@@ -1,0 +1,1 @@
+insert into company("name", description) values (Wiza, Wiza and Wiza, Books & Tools)
